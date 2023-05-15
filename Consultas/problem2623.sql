@@ -1,4 +1,7 @@
--- Categorias com Vários Produtos
+/*
+  2623 - Categorias com Vários Produtos
+  O setor de vendas precisa de um relatório para saber quais produtos estão sobrando em estoque ...
+*/
 
 SELECT prod.name, cat.name
 FROM products prod
