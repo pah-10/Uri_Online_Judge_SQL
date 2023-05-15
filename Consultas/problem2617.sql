@@ -1,4 +1,7 @@
---Fornecedor Ajax SA
+/*
+  2617 - Fornecedor Ajax SA
+  O setor financeiro encontrou alguns problemas na entrega de um dos nossos fornecedores ...
+*/
 
 SELECT prod.name, prov.name
 FROM products as prod
