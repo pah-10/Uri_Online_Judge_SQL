@@ -1,4 +1,7 @@
---Produtos Importados
+/*
+  2618 - Produtos Importados
+  O setor de importação da nossa empresa precisa de um relatório sobre a importação de produtos do nosso fornecedor Sansul ...
+*/
 
 SELECT prod.name, forn.name, cat.name
 FROM products prod
