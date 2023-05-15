@@ -1,4 +1,7 @@
--- Super Luxo
+/*
+  2619 - Super Luxo
+  A nossa empresa está querendo fazer um novo contrato para o fornecimento de novos produtos superluxuosos ...
+*/
 
 SELECT prod.name, forn.name, prod.price
 FROM products as prod
