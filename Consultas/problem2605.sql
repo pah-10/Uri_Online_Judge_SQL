@@ -1,4 +1,7 @@
---Representantes Executivos
+/*
+  2605 - Representantes Executivos
+  O setor financeiro precisa de um relatório sobre os fornecedores dos produtos que vendemos. Os relatórios ...
+*/
 
 SELECT prod.name, forn.name
 FROM products prod
